@@ -1,0 +1,16 @@
+th, td{
+    border: 2px solid black;
+}
+
+
+ol{
+    background-color: thistle;
+}
+
+ul{
+    background-color: lightblue;
+}
+
+dl{
+    background-color: lightgreen;
+}
