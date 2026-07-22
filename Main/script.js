@@ -1,1 +1,0 @@
-alert("Hello, This is Web Development Course");
